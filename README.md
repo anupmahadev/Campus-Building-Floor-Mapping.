@@ -1,0 +1,2 @@
+# Campus-Building-Floor-Mapping.
+This project is based on Internet of Things and Machine Learning: Android application naming 3D tracking is built to collect the data and reconstruct floor maps data. Identify patterns for common semantics present in buildings like water fountain, stair case etc. and develop an algorithm for classification of such semantics. JAVA, Android Programming, MATLAB and Shell Script.
